@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/46e8dad4-3bf5-44b5-a918-351b7592f069)# TestQAMIFX
+TestQAMIFX
 
 to use this file, just download,extract and open project using katalon.
 to open testcase, click dropdown button test case on the test explorer tab on the left.
